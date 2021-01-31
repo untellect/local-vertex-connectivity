@@ -282,7 +282,7 @@ namespace mains {
 			cout << "No file output." << endl;
 		}
 
-		size_t sample_size = 1;
+		size_t sample_size = 5;
 
 		vector<string> algnames = {
 			"LOCALFd",
