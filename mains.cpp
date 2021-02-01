@@ -288,7 +288,7 @@ namespace mains {
 			"LOCALFd",
 			"LOCFhd3",
 			"LOCALF",
-			//"HRG",
+			"HRG",
 
 			//"LOCAL",
 			//"LOCALd",

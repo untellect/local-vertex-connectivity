@@ -44,6 +44,7 @@ namespace mains {
 
 		for (string graph_family : graph_families) {
 			string family_dir = config::output_top_directory + graph_family + "/";
+			create_directories(family_dir); // Just in case.
 
 			vector<res> results2;
 
