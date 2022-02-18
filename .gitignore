@@ -1,0 +1,14 @@
+# Graph files
+input/
+# Test results (raw and processed)
+data/
+collected-data/
+# Compiled binaries
+build/
+bin/
+# Visual Studio
+.vscode/
+# Temporary files
+tmp/
+*.out
+queue/
